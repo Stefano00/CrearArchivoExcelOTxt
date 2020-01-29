@@ -1,0 +1,2 @@
+formatoSalida=xls;
+rutaSalida=C:\Users\EDUTECNO\Documents\Stefano Marin\Excel;
